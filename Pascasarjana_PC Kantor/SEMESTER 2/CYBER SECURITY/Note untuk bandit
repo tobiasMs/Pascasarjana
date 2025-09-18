@@ -1,0 +1,10 @@
+Lv0 = bandit.labs.overthewire.org, on port 2220
+Lv1 = Ketik LS, Ketik cat readme
+Lv2 = Ketik pwd (powerdirectory) buat ambil dir home nya, terus baru cat ke direktorinya (cat /home/bandit1/-)
+Lv3 = ketik pwd buat ambil dir home, terus di cat /home/bandit2/'spaces in this filename'
+Lv4 = caranya sama kaya nomer 3
+LV5 = ketik ls -la buat cari tau file nya, ketik cd/inhere, di inhere cari file yang readable (format AXCII/ text). Caranya ketik file ./(ini diisi nama filenya) pokoknya kodenya ./namafile
+LV6 = masuk ke dir inhere (cd/inhere), terus cari file nya berdasarkan spesifikasinya pakai ini find . -type f -size 1033c (file . -> untuk baca semua di folder & sub folder, -type f -> untuk tipe file nya biasa -size 1033c -> untuk 1033 biyte
+LV7 = pakai comand find / -type f -user bandit7 -group bandit6 -size 33c 2>/dev/null
+penjelasannya / -> setiap file -type f -> untk semua file -user bandit7 ->spesifikasi yang diminta (user bandit7) -group bandit6 -> group yang diminta -size 33c -> untuk file 33 byte 2>/dev/null -> untuk hiraukan error
+

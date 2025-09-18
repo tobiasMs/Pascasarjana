@@ -1,0 +1,4 @@
+How to combine a smart farming and smart tech:
+1. Dataset about image when harvest time
+2. Use AI to control system?
+3. All autonomous 
