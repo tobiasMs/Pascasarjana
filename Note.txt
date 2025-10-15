@@ -1,0 +1,13 @@
+traditional tanpa thresholding bisa lebih cepat
+NOte:
+Ketika background ada warna bakal kacau untuk akurasi
+
+Pakai deep learning:
+Bisa lebih bagus,
+Tapi pembuatan modelnya menjadi lambat.
+
+
+-> Model yang diusulkan blm tentu yang terbaik (jelaskan alasannya / Research gap nya apa)
+
+
+

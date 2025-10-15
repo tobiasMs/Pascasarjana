@@ -1,0 +1,33 @@
+During the GNAT task, participants are required to respond
+with either "go" or "no go" based on the provided instructions
+and within a specified reaction time of 1000 ms [22]. In the
+execution of the Go/No-Go Association Task (GNAT),participants need to respond "Go" by pressing the spacebar
+when a target word appears and respond "No Go" by not
+pressing any key when a distractor word appears
+[23].Participants were tasked with completing 22 tasks in the
+GNAT, which were divided into two sections: the practice
+session and the main session. During the practice session, the
+participants were familiarized with the general GNAT
+process, beginning with the emergence of stimuli and
+instructions on responding to the appropriate stimuli. This
+section comprises of six tasks. Upon completion of the
+practice section, the session transitions to the main session,
+which includes eight main tasks, each initiated by one trial task
+[23]. During the test session, participants underwent 16 trials
+for the trial task and 60 trials for the main task, as outlined in
+TABLE 1.
+During the GNAT process, Psychologists from the
+Psychology Department at UNISBA observed the behaviour
+and body movements of the participants. Subsequently,
+psychologists interviewed the participants. There were two
+participant criteria specified by psychologists: normal
+(represented by "N") and at-risk (represented by "R").
+Psychologists determined participant criteria based on
+predetermined parameters. In GNAT, the strength of an
+association is evaluated by considering the distance of items,
+such as words, from the target category. Additionally,
+attributes (e.g., traits and objects) not directly related to the
+target words may serve as distractors that are not part of the
+target words. One condition involves the simultaneous
+identification of stimuli representing the target category and
+distractors [22], [23].
